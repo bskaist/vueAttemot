@@ -18,7 +18,6 @@
             @click:append="showPassword = !showPassword"
           ></v-text-field>
         </v-card-form>
-        <h1>Hello World</h1>
       </v-card-text>
       <v-card-actions>
         <v-btn color="success">Register</v-btn>
